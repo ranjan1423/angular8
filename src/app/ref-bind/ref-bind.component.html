@@ -1,0 +1,9 @@
+<p>
+  ref-bind works!
+</p>
+
+<input #myVar type="text" value="Chetu">
+<br /><br />
+<button (click)="onClickCatchRef(myVar.value)">click and send value</button>
+<br /><br />
+<!-- <button (click)="onClickCatchRef(myVar)">click and send reference</button> -->

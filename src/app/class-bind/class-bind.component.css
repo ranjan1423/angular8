@@ -1,0 +1,24 @@
+.golddiv {
+    background-color: gold
+}
+
+.bluediv {
+    background-color:blue
+}
+
+
+.errordiv {
+    background-color:red
+}
+
+.successdiv {
+    background-color:greenyellow
+}
+
+.bigFontDiv {
+    font-size: xx-large
+}
+
+.boldDiv {
+    font-weight: bold
+}
